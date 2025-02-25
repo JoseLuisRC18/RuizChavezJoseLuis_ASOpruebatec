@@ -98,7 +98,10 @@
 - Capturas
 
  ![captura3.png](captura3.png)
+ 
+![captura1.png](captura1.png)
 
+![captura2.png](captura2.png)
       
         
 
